@@ -7,7 +7,7 @@
     <PortMap component="0" face="3" labelX="0.000000" labelY="0.000000" port="0" type="signal" x="107" y="82" />
    </Map>
   </PortsMap>
-  <Circuit ameApplication="AMESim" highestId="18">
+  <Circuit ameApplication="AMESim" highestId="20">
    <Comps>
     <Comp alias="constant" circuitScopeId="1" depth="201" displayName="constant" geometry="1" iconDescription="constant signal source" labelVisible="0" libraryId="sig.constant" name="constant" scaleX="1.000000" scaleY="1.000000" type="0">
      <Pos x="67" y="67" />
